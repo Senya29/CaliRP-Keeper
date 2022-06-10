@@ -1,6 +1,6 @@
 {
     "token" : {
-        "bottoken" : "changeme"
+        "bot_token" : "changeme"
     }
 
 }

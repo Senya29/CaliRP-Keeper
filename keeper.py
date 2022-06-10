@@ -15,7 +15,7 @@ with open('config.json') as cjson:
 
 intents = discord.Intents.all()
 
-token = config["token"]["bottoken"]
+token = config["token"]["bot_token"]
 
 bot = commands.Bot(command_prefix="*", intents=intents, help_command=None)
 
